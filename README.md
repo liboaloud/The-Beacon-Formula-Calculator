@@ -11,3 +11,11 @@ Inputs the causes error:
 
 This calcuator is programmed with C, and C++.
 (PYTHON IS COMING SOON).
+
+## Author & Programmer
+
+Abdelrahman Abdelnasser Ahmed Rabie
+(Libo - Aloud)
+
+- Creator of The Beacon Theorem.
+- Programmer of The Beacon Formula Calculator.
