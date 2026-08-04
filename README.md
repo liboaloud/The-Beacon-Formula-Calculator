@@ -17,5 +17,5 @@ This calcuator is programmed with C, and C++.
 Abdelrahman Abdelnasser Ahmed Rabie
 (Libo - Aloud)
 
-- Creator of The Beacon Theorem
-- Programmer of The Beacon Formula Calculator
+- Creator of The Beacon Theorem.
+- Programmer of The Beacon Formula Calculator.
